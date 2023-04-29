@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title='Molnupiravir FIP case-series',
-                   page_icon=":cat:", layout='wide', initial_sidebar_state='expanded')
+                   page_icon="🙀", layout='wide', initial_sidebar_state='expanded')
 
 st.title(':cat: Case series project: The efficacy of molnupiravir for management of the effusive feline infectious peritonitis in cats')
 st.markdown("##")
@@ -57,7 +57,7 @@ with left_col:
     )
     st.subheader("Clinical Signs Distribution")
     st.write(f"Select Week {week}")
-    
+
     merge_counts = pd.DataFrame(columns=['sign'])
 
     for col in df_select.columns[7:11]:
