@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import plotly.express as px
 
 st.set_page_config(page_title='Molnupiravir FIP case-series',
                    page_icon=":cat:", layout='wide', initial_sidebar_state='expanded')
