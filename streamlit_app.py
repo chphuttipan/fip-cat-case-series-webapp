@@ -57,6 +57,7 @@ with left_col:
     )
     st.subheader("Clinical Signs Distribution")
     st.write(f"Select Week {week}")
+    
     merge_counts = pd.DataFrame(columns=['sign'])
 
     for col in df_select.columns[7:11]:
