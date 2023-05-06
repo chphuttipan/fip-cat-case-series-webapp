@@ -6,3 +6,5 @@
 3. Median body weight of cat in the series
 4. Histogram of the clinical sign occurance in each follow up week
 5. Pie chart of cat breed
+
+The recent version of webapp: molnupiravir-cat-fip.streamlit.app
