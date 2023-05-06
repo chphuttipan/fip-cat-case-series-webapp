@@ -10,7 +10,7 @@ st.title(':cat: Case series project: The efficacy of molnupiravir for management
 st.markdown("##")
 
 # Import DataFrame
-df = pd.read_csv('https://raw.githubusercontent.com/chphuttipan/data/main/mu_fip_project4.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/chphuttipan/fip-cat-case-series-webapp/master/fip_project4.csv')
 df.drop(df.columns[0], axis = 1, inplace=True)
 
 # Change feature in week column
