@@ -1,18 +1,11 @@
 # Name of Streamlit App
 
-Description of the app ...
+The efficacy of molnupiravir in cat with effusive form of feline infectious peritonitis 
 
 ## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-app/)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+Webapp create by streamlit contain details of 
+1. Total case numbers
+2. Median dosage of drug
+3. Median body weight of cat in the series
+4. Histogram of the clinical sign occurance in each follow up week
+5. Pie chart of cat breed
