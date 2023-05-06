@@ -1,9 +1,6 @@
-# Name of Streamlit App
+# The efficacy of molnupiravir in cat with effusive form of feline infectious peritonitis 
 
-The efficacy of molnupiravir in cat with effusive form of feline infectious peritonitis 
-
-## Demo App
-Webapp create by streamlit contain details of 
+## Webapp create by streamlit contain details of 
 1. Total case numbers
 2. Median dosage of drug
 3. Median body weight of cat in the series
